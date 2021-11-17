@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2015\Projects\P2_1_1204013\P2_1_1204013\bin\Debug\P2_1_1204013.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\P2_1_1204013\P2_1_1204013\bin\Debug\P2_1_1204013.exe
+c:\users\asus\documents\visual studio 2015\Projects\P2_1_1204013\P2_1_1204013\bin\Debug\P2_1_1204013.pdb
+c:\users\asus\documents\visual studio 2015\Projects\P2_1_1204013\P2_1_1204013\obj\Debug\P2_1_1204013.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\P2_1_1204013\P2_1_1204013\obj\Debug\P2_1_1204013.exe
+c:\users\asus\documents\visual studio 2015\Projects\P2_1_1204013\P2_1_1204013\obj\Debug\P2_1_1204013.pdb
